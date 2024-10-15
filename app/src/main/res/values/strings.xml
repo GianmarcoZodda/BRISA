@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BRISA</string>
+    <string name="sin_cuenta">Aun no tienes tu cuenta?</string>
+    <string name="registrarme">REGISTRARSE</string>
+    <string name="iniciar_sesion">INICIAR SESION</string>
+    <string name="continuar">CONTINUAR</string>
+    <string name="logo">Logo de Brisa</string>
+</resources>
